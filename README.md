@@ -1,1 +1,3 @@
 # Data-analysis-and-visualization-of-Amazon-sales
+It is data analysis and visualization project dashboard which shows sales insights of Amazon. 
+MS-EXCEL project....
